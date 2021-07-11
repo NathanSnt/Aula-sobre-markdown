@@ -174,4 +174,5 @@ Como o @NathanSnt havia dito anteriormente:
 
 ## ESCAPE DE CÓDIGO
 - ### para conseguir escrever algum código do markdown coloque uma contra-barra antes do código
+```\!\[Qualquer coisa]\(youtube.com)```
 - \!\[Qualquer coisa]\(youtube.com)
