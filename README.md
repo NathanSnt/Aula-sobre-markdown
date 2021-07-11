@@ -119,12 +119,12 @@ OU
 
 ## LINK
 ```[Descrição do link](Link)```  
-[Exemplo]()  
+[Exemplo](github.com/NathanSnt)  
 
 ## IMAGEM COM LINK 
 ```[![Descrição da imagem](link da imagem)](link)```  
 
-[![alguma coisa](https://user-images.githubusercontent.com/79227411/125203376-81ec3700-e24e-11eb-9a6c-822358a125ff.jpg)]()  
+[![alguma coisa](https://user-images.githubusercontent.com/79227411/125203376-81ec3700-e24e-11eb-9a6c-822358a125ff.jpg)](github.com/NathanSnt)  
 
 ## TABELA
 ```
