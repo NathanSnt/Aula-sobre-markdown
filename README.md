@@ -22,7 +22,7 @@
 - para fazer uma linha horizontal --- ou ***  
 ---
 
-- para lista usa-se um número seguido por um ponto e e item da lista  
+- para lista númerada usa-se um número seguido por um ponto e e item da lista  
 1. Exemplo 1
 1. Exemplo 2
 1. Exemplo 3
@@ -32,9 +32,22 @@
 1. Exemplo 
 1. Exemplo 
    1. Exemplo 
+   1. Exemplo 
+   1. Exemplo 
       1. Exemplo 
          1. Exemplo 
       1. Exemplo 
 1. Exemplo 
    1. Exemplo 
 1. Exemplo 
+
+- para lista demarcada com ponto * ou - antes do item
+- Exemplo 1
+- Exemplo 1
+   - Exemplo 2
+   - Exemplo 2
+      - Exemplo 3
+      - Exemplo 3
+   - Exemplo 2
+- Exemplo 1
+- Exemplo 1
