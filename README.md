@@ -52,7 +52,7 @@
 - Exemplo 1
 - Exemplo 1
 
-- ### para lista de tarefas usa o - e o [ ] com um espaço no meio dos colchetes. Para marcar como terminado, coloque um x ao invés de um espaço vazio nos colchetes
+- ### para lista de tarefas usa o - e o [ ] com um espaço no meio dos colchetes. Para marcar como terminado, coloque um x ao invés de um espaço vazio entre colchetes
 - [x] Estudar para a prova
 - [x] Limpar a casa
 - [ ] Levar o cachorro para passear
