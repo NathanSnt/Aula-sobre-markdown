@@ -1,6 +1,6 @@
 # Como usar o **markdown**
 
-- ## para títulos usa-se o # antes do título, para subtítulos acrescente mais um # 
+- ## para títulos usa-se o # antes do título, para subtítulos acrescente mais um # colado com o no outro
  # Exemplo
  ## Exemplo
  ### Exemplo
