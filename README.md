@@ -21,7 +21,7 @@
 ou
 __Frase em negrito__
 ```
-**Frase em negrito**
+**Essa é uma frase em negrito**
 
 ## ITÁLICO
 ```
@@ -29,7 +29,7 @@ __Frase em negrito__
 ou
 _Frase em itálico_
 ```
-*Frase em itálico*
+*Essa é uma frase em itálico*
 
 ## ITÁLICO E NEGRITO
 ```
@@ -37,7 +37,7 @@ _Frase em itálico_
 ou
 __*Frase emNegrito e Itáliso*__
 ```
-**_Frase em Negrito e Itálico_**
+**_Essa é uma frase em Negrito e Itálico_**
 
 ## FRASE RASURADA
 ```
@@ -45,7 +45,7 @@ __*Frase emNegrito e Itáliso*__
 ou
 ~~Frase rasurada~~
 ```
-~~Frase rasurada~~
+~~Essa é uma frase rasurada~~
 
 ## LINHA HORIZONTAL
 ```
@@ -59,9 +59,9 @@ ou
 1. Item
 1. Item
 ```
-1. Item
-1. Item
-1. Item
+1. Item 1
+1. Item 2
+1. Item 3
 
 ## LISTA ANINHADA
 ```
@@ -75,15 +75,15 @@ ou
 1. Item
 1. Item
 ```
-1. Item
-1. Item
-   1. Item
-   1. Item
-      1. Item
-      1. Item
-   2. Item
-1. Item
-1. Item
+1. Item 1
+1. Item 2
+   1. Item a
+   1. Item b
+      1. Item 1
+      1. Item 2
+   2. Item c
+1. Item 3  
+1. Item 4
 
 ## LISTA DEMARCADA COM PONTO
 ```
@@ -92,14 +92,14 @@ OU
 * item
 ```
 - Exemplo 1
-- Exemplo 1
-   - Exemplo 2
-   - Exemplo 2
-      - Exemplo 3
-      - Exemplo 3
-   - Exemplo 2
-- Exemplo 1
-- Exemplo 1
+- Exemplo 2
+   - Exemplo a
+   - Exemplo b
+      - Exemplo 1
+      - Exemplo 2
+   - Exemplo c
+- Exemplo 3
+- Exemplo 4
 
 ## LISTA DE TAREFA
 ```
@@ -128,22 +128,22 @@ OU
 
 ## TABELA
 ```
-col1 | col2 | col3
+coluna 1 | coluna 2 | coluna 3
 ---|---|---
-valor1 | valor2 | valor3
+valor 1 | valor 2 | valor 3
 ```
 ### resultado:  
-col1 | col2 | col3
+coluna 1 | coluna 2 | coluna 3
 ---|---|---
-valor1 | valor2 | valor3
+valor 1 | valor 2 | valor 3
 
 ## LINHA DE COMANDOS
 
-- ###  coloque o comando entre crases ``` ` código vai aqui ` ```
+- ###  coloque o comando entre crases ``` ` código vai aqui ` ```  
 `print(Exemplo)`
 
 ## TRECHO DE CÓDIGO
-- ### Coloque o código entre três crease 
+- ### Coloque o código entre três crease \```
 
 ```
 num = int(input('Digite um número: '))
